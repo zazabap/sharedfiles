@@ -1,0 +1,34 @@
+\begin{thebibliography}{4}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Brogaard et~al.(2014)Brogaard, Hendershott, and
+  Riordan]{brogaard2014high}
+Jonathan Brogaard, Terrence Hendershott, and Ryan Riordan.
+\newblock High frequency trading and its impact on market quality.
+\newblock \emph{SSRN Electronic Journal}, 2014.
+
+\bibitem[Campbell et~al.(1997)Campbell, Lo, and
+  MacKinlay]{campbell1997econometric}
+John~Y Campbell, Andrew~W Lo, and A~Craig MacKinlay.
+\newblock Econometric analysis of high frequency financial data.
+\newblock \emph{Handbook of Statistics}, 14:\penalty0 1--101, 1997.
+
+\bibitem[Kirilenko et~al.(2011)Kirilenko, Kyle, Samadi, and
+  Tuzun]{kirilenko2011microstructure}
+Andrei Kirilenko, Albert~S Kyle, Mehrdad Samadi, and Tugkan Tuzun.
+\newblock The microstructure of the 'flash crash': Flow toxicity, liquidity
+  crashes and the probability of informed trading.
+\newblock \emph{Journal of Financial Markets}, 16\penalty0 (2):\penalty0
+  233--250, 2011.
+
+\bibitem[Gomber et~al.(2011)Gomber, Arndt, Lutat, and Uhle]{gomber2011high}
+Peter Gomber, Bj{"o}rn Arndt, Marco Lutat, and Tim Uhle.
+\newblock High-frequency trading.
+\newblock In \emph{The Handbook of High Frequency Trading}, pages 3--24.
+  Elsevier, 2011.
+
+\end{thebibliography}
